@@ -1,5 +1,5 @@
 <div align="center">
-# StardewValley
+<h1>StardewValley</h1>
 </div>
 
 <div align="center">
